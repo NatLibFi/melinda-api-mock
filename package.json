@@ -1,0 +1,17 @@
+{
+  "name": "melinda-api-mock",
+  "version": "1.0.0",
+  "description": "Mocks melinda api for tests",
+  "main": "api-mock.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "melinda",
+    "api",
+    "marcxml",
+    "rest"
+  ],
+  "author": "Pasi Tuominen <pasi.e.tuominen@helsinki.fi>",
+  "license": "ISC"
+}

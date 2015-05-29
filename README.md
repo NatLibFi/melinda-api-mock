@@ -20,11 +20,12 @@ var api = new MockAPI({
 	recordsDir: "records/" // a directory where to read the requested marcxml records from
 });
 
-// api is an instance of [http.Server](https://nodejs.org/api/http.html#http_class_http_server)
+// api is an instance of http.Server
 
 // to start the api:
 api.listen(port, cb);
 
 
 ```
+See: [http.Server](https://nodejs.org/api/http.html#http_class_http_server)
 

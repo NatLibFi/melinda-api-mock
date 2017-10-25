@@ -1,6 +1,6 @@
-# melinda-api-mock
+# A mock of Melinda API
 
-A mock of melinda api. This module can be used to test things that depend on melinda api.
+This module can be used to test things that depend on melinda api.
 
 ## Installation
 
@@ -29,3 +29,8 @@ api.listen(port, cb);
 ```
 See: [http.Server](https://nodejs.org/api/http.html#http_class_http_server)
 
+## License and copyright
+
+Copyright (c) 2015, 2017 University Of Helsinki (The National Library Of Finland)
+
+This project's source code is licensed under the terms of **GNU Lesser General Public License Version 3**.

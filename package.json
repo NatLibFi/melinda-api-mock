@@ -1,7 +1,19 @@
 {
   "name": "melinda-api-mock",
   "version": "1.0.0",
-  "description": "Mocks melinda api for tests",
+  "description": "A mock of Melinda API",
+  "author": {
+    "name": "The National Library of Finland"
+  },
+  "homepage": "https://github.com/NatLibFi/melinda-api-mock",
+  "bugs": {
+    "url": "https://github.com/NatLibFi/melinda-api-mock/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:NatLibFi/melinda-api-mock.git"
+  },
+  "license": "LGPL-3.0+",
   "main": "api-mock.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,7 +23,5 @@
     "api",
     "marcxml",
     "rest"
-  ],
-  "author": "Pasi Tuominen <pasi.e.tuominen@helsinki.fi>",
-  "license": "ISC"
+  ]
 }
